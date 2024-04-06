@@ -14,7 +14,7 @@ The Company aims to look at data form different department, make important metri
 
 
 ### Steps followed 
-For this i have created the 4 amazing Dashboard that give all info about the company's all over performance.
+For this i have created the 5 amazing Dashboard that give all info about the company's all over performance.
 
 Here I provids all details about my bussines insights 360 project by step by step😊
 
