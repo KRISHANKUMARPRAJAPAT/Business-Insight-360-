@@ -110,7 +110,7 @@ Now Just Look Executive View Dashboard:
 
 
 
- - Step 18 : The report was then published to Power BI Service.
+ - The report was then published to Power BI Service.
  
  
 ![Publish_Message](https://user-images.githubusercontent.com/102996550/174094520-3a845196-97e6-4d44-8760-34a64abc3e77.jpg)
